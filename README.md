@@ -23,3 +23,11 @@ Entorno de desarrollo ligero utilizando el protocolo de servidor de lenguaje (Me
 ### Entorno 3: IntelliJ IDEA Community + sbt
 Entorno de desarrollo integrado (IDE) completo, ideal para gestionar proyectos con múltiples archivos e integraciones nativas.
 - [Ver documentación del Entorno 3](parte1/README.md#13-entorno-3--intellij-idea-community--scala-21221--sbt)
+
+---
+
+## Parte 2 - Programación con Scala en JupyterLab
+
+Desarrollo y resolución de los 15 ejercicios prácticos sobre fundamentos de programación en Scala utilizando JupyterLab, cubriendo variables, colecciones, estructuras de control, funciones y estilos imperativo y funcional.
+
+- [Ver Parte 2 — Programación con Scala](parte2/README.md)
