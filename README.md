@@ -1,7 +1,7 @@
 # Práctica de programación básica con Scala
 
 ## Autor
-Nombre y apellidos: [Tu Nombre y Apellidos][cite: 1]
+Nombre y apellidos: [Víctor Pérez Martínez]
 
 ## Entorno
 - **Sistema operativo:** Windows 11
