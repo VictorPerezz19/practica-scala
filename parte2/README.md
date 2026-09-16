@@ -10,8 +10,7 @@ En este documento se detalla la resolución de los 15 ejercicios prácticos sobr
 El desarrollo se ha llevado a cabo de forma interactiva utilizando celdas de código y Markdown integradas en el entorno web, ejecutándose bajo el núcleo de Almond para Scala 2.12.21.
 
 ![JupyterLab abierto](images/JupyterLab%20abierto.png)
-![Scala 2.12.21 con Almond](images/Scala%202.12.21%20com....png)
-
+![Scala 2.12.21 con Almond](images/scala-version.png)
 ---
 
 ## 2.2 Desarrollo y Evidencias de los Ejercicios
