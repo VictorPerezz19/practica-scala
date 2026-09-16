@@ -14,12 +14,12 @@ El objetivo de esta primera fase es configurar y documentar tres entornos de des
 
 ### Entorno 1: JupyterLab + Almond Kernel
 Entorno interactivo para la ejecución rápida de código y exploración mediante *notebooks*.
-- [Ver documentación del Entorno 1](parte1/README.md#11-entorno-1--jupyterlab--almond-kernel--scala-21221)[cite: 1]
+- [Ver documentación del Entorno 1](parte1/README.md#11-entorno-1--jupyterlab--almond-kernel--scala-21221)
 
 ### Entorno 2: Visual Studio Code + Metals + sbt
 Entorno de desarrollo ligero utilizando el protocolo de servidor de lenguaje (Metals) y herramientas de construcción (sbt) para proyectos estructurados.
-- [Ver documentación del Entorno 2](parte1/README.md#12-entorno-2--visual-studio-code--metals--scala-21221--jdk-17--sbt)[cite: 1]
+- [Ver documentación del Entorno 2](parte1/README.md#12-entorno-2--visual-studio-code--metals--scala-21221--jdk-17--sbt)
 
 ### Entorno 3: IntelliJ IDEA Community + sbt
 Entorno de desarrollo integrado (IDE) completo, ideal para gestionar proyectos con múltiples archivos e integraciones nativas.
-- [Ver documentación del Entorno 3](parte1/README.md#13-entorno-3--intellij-idea-community--scala-21221--sbt)[cite: 1]
+- [Ver documentación del Entorno 3](parte1/README.md#13-entorno-3--intellij-idea-community--scala-21221--sbt)
