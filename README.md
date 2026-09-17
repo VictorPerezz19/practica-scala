@@ -35,4 +35,4 @@ Desarrollo y resolución de los 15 ejercicios prácticos sobre fundamentos de pr
 ---
 
 ## Parte 3: Mini proyectos de Scala (Twenty-One y Calificaciones)
-- [Ver Parte 2 — Mini proyectos en entornos de desarrollo](parte3/README.md)
+- [Ver Parte 3 — Mini proyectos en entornos de desarrollo](parte3/README.md)
