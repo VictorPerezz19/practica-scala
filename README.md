@@ -31,3 +31,8 @@ Entorno de desarrollo integrado (IDE) completo, ideal para gestionar proyectos c
 Desarrollo y resolución de los 15 ejercicios prácticos sobre fundamentos de programación en Scala utilizando JupyterLab, cubriendo variables, colecciones, estructuras de control, funciones y estilos imperativo y funcional.
 
 - [Ver Parte 2 — Programación con Scala](parte2/README.md)
+
+---
+
+## Parte 3: Mini proyectos de Scala (Twenty-One y Calificaciones)
+- [Ver Parte 2 — Mini proyectos en entornos de desarrollo](parte3/README.md)
