@@ -35,7 +35,6 @@ La salida por consola muestra:
   **Solución:** Se solucionó abriendo directamente la carpeta específica del proyecto (`torneo-twenty-one`) en Visual Studio Code para que Metals identificara correctamente el archivo `build.sbt` en la raíz e importara el entorno.
 
 ## 7. Capturas de pantalla
-*( Las imágenes demuestran el entorno de trabajo y la ejecución del código)*
 
 **Visual Studio Code con Metals activo:**
 ![Visual Studio Code y Metals](images/visual-Metals.png)
