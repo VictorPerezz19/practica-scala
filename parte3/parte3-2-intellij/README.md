@@ -37,7 +37,6 @@ La salida por consola muestra:
   **Solución:** Se amplió la terminal y se tomaron dos capturas secuenciales para registrar la totalidad de los datos procesados.
 
 ## 7. Capturas de pantalla
-*(Las imágenes demuestran el entorno de trabajo y la ejecución del código)*
 
 **Entorno IntelliJ, sbt y Plugin Scala activos:**
 ![Entorno IntelliJ](images/intellij-entorno.png)
